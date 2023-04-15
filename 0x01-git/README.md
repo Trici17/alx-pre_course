@@ -1,1 +1,2 @@
-My frist me
+My first readme
+up to date
